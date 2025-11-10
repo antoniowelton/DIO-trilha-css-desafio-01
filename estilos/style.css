@@ -103,6 +103,10 @@ section{
     text-align: center;
 }
 
+#course-content p {
+    margin-bottom: 25px;
+}
+
 
 
 #course-content .module-list {
